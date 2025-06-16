@@ -2,7 +2,7 @@ window.addEventListener('DOMContentLoaded', () => {
     const params = new URLSearchParams(window.location.search);
     const certId = params.get('id');
 
-    fetch('/pages/certificate/certificates.json')
+    fetch('certificates.json')
         .then(response => response.json())
         .then(data => {
             console.log(document.querySelector('.certificate__name'));
