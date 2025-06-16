@@ -1,0 +1,19 @@
+/* css/base/variables.css */
+:root {
+  /* Colors */
+  --primary-color: #191840;
+  --secondary-color: #ffffff;
+  --accent-color: #ffc107;
+  --accent-hover-color: #e0a800;
+  --background-color: #f8f9fa;
+  --text-color: #343a40;
+  --light-text-color: #6c757d;
+  --cert-primary-color: #191840;
+  --cert-secondary-color: #3f5584;
+  --cert-background-color: #f2f3f0;
+  /* Effects */
+  --shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+  --transition: all 0.3s ease;
+  --border-radius: 8px;
+  --gap: 1rem;
+}
