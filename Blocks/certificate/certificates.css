@@ -43,6 +43,8 @@ body {
 
 .grade__grade {
   padding: 4px;
+  min-width: 50px;
+  text-align: center;
   border: 3px solid var(--cert-secondary-color);
   color: var(--cert-secondary-color);
 }
