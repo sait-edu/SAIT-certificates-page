@@ -1608,6 +1608,76 @@
             "campNumber": 1,
             "duration": 72,
             "courses": "HTML, CSS, JavaScript Basics"
+        },
+        {
+            "id": "257200001",
+            "name": "Amr Sherif",
+            "camp": "FRONTEND DEVELOPMENT CAMP",
+            "grade": "A+",
+            "date": "2026-01-14",
+            "campNumber": 2,
+            "duration": 80,
+            "courses": "Advanced JavaScript, DOM, React, Tailwind, GSAP"
+        },
+        {
+            "id": "257200002",
+            "name": "Yasser Mohamed Abd-Elmoneim",
+            "camp": "FRONTEND DEVELOPMENT CAMP",
+            "grade": "A+",
+            "date": "2026-01-14",
+            "campNumber": 2,
+            "duration": 80,
+            "courses": "Advanced JavaScript, DOM, React, Tailwind, GSAP"
+        },
+        {
+            "id": "257200003",
+            "name": "Abdallah Samir Ahmed Mahmoud Amer",
+            "camp": "FRONTEND DEVELOPMENT CAMP",
+            "grade": "A+",
+            "date": "2026-01-14",
+            "campNumber": 2,
+            "duration": 80,
+            "courses": "Advanced JavaScript, DOM, React, Tailwind, GSAP"
+        },
+        {
+            "id": "257200004",
+            "name": "Maya Ahmed Lotfy",
+            "camp": "FRONTEND DEVELOPMENT CAMP",
+            "grade": "A+",
+            "date": "2026-01-14",
+            "campNumber": 2,
+            "duration": 80,
+            "courses": "Advanced JavaScript, DOM, React, Tailwind, GSAP"
+        },
+        {
+            "id": "257200005",
+            "name": "Mohamed Ahmed Saed Elrouie",
+            "camp": "FRONTEND DEVELOPMENT CAMP",
+            "grade": "A+",
+            "date": "2026-01-16",
+            "campNumber": 2,
+            "duration": 80,
+            "courses": "Advanced JavaScript, DOM, React, Tailwind, GSAP"
+        },
+        {
+            "id": "257200006",
+            "name": "Ziad Al-Kasim",
+            "camp": "FRONTEND DEVELOPMENT CAMP",
+            "grade": "A+",
+            "date": "2026-02-04",
+            "campNumber": 2,
+            "duration": 80,
+            "courses": "Advanced JavaScript, DOM, React, Tailwind, GSAP"
+        },
+        {
+            "id": "257200007",
+            "name": "Haya Mohamed Zakaria",
+            "camp": "FRONTEND DEVELOPMENT CAMP",
+            "grade": "A+",
+            "date": "2026-02-06",
+            "campNumber": 2,
+            "duration": 80,
+            "courses": "Advanced JavaScript, DOM, React, Tailwind, GSAP"
         }
     ]
 }

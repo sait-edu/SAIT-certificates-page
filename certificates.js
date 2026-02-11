@@ -28,7 +28,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
     // Camp-specific data
     const campInfo = {
-        1: { duration: 72, courses: "HTML, CSS, JavaScript Basics", nextCamp: "Frontend Development Camp" },
+        1: { duration: 72, courses: "HTML, CSS, JavaScript", nextCamp: "Frontend Development Camp" },
         2: { duration: 80, courses: "Advanced JS, DOM, React, Tailwind, GSAP", nextCamp: "Backend Development Camp" },
         3: { duration: 90, courses: "Node.js, Express, Databases, Deployment", nextCamp: "Full-Stack Mastery" }
     };
@@ -51,7 +51,7 @@ window.addEventListener('DOMContentLoaded', () => {
                 // Fill dynamic fields from JSON or default campInfo
                 document.querySelector('.grade__duration-time').textContent = cert.duration || campInfo[campNumber].duration;
                 document.querySelector('.grade__courses-list').textContent = `${cert.courses || campInfo[campNumber].courses}`;
-                document.querySelector('.grade__grade').textContent = `Final Grade: ${cert.grade || "A+"}`;
+                document.querySelector('.grade__grade').textContent = `Final Grade: ${cert.grade || ""}`;
 
                 // Update notes dynamically
                 const notesItems = document.querySelectorAll('.notes__item');
